@@ -213,7 +213,7 @@ test/                     # provider, tool, and agent-loop suites
 Requires **Node 22+** and at least one provider key.
 
 ```bash
-git clone https://github.com/mr-raj12/cogent.git
+git clone https://github.com/D3S-Gaurav/cogent.git
 cd cogent
 npm install
 cp .env.example .env       # add your key(s)
